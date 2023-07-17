@@ -1,0 +1,59 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 06-06-2022, 12:54:30
+    Author     : SantoTomas
+*/
+html, body {
+    height: 100%;
+    background: #E969BE;
+}
+header {
+    display: block;
+    background: #A94EB6;
+    padding: 9px 0px;
+}
+section {
+    width: 70%;
+    height:65%;
+    background: #E969BE;
+    float: left;
+    overflow: auto;
+    padding-bottom: 100px;
+    padding-top: 100px;
+}
+aside {
+    float: right;
+    border: 2px black;
+    width: 30%;
+    height: 92%;
+    border: 1px black;
+    border-bottom: 1px black;
+    background: #E58DF1;
+}
+footer {
+    position: relative;
+    margin-top: -45px;
+    height: 60px;
+    padding: 35px 0px;
+    clear: both;
+    background: #A94EB6;
+    text-align: center;
+    color: #fff;
+}
+p {
+    font-family:'Berlin Sans FB';
+    text-align: center;
+}
+h1{
+    text-align:center;
+    font-family:'Berlin Sans FB';
+}
+figcaption {
+    font-family: 'Berlin Sans FB';
+}
+a {
+    font-family: 'Berlin Sans FB';
+}
